@@ -14,7 +14,6 @@ exports.create = async (req, res) => {
         res.send(point1) 
     } 
  
-
     
  
     exports.getAll = async (req, res) => { 
